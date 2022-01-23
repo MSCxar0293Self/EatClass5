@@ -29,3 +29,9 @@
     transition:0.2s;
     background:rgba(0,0,0,0);   
 }
+
+body {
+    background: url("./bg1.jpg") center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
