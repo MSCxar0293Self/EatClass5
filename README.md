@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/MSCxar-0293/neededpic/blob/main/-3d84407091826a8.jpg?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://MSCxar0293Self.github.io/EatClass5"><img src="https://github.com/MSCxar-0293/neededpic/blob/main/-3d84407091826a8.jpg?raw=true" width="100" height="100" alt="EatClass5"></a>
 </p>
 <div align="center">
 
@@ -18,24 +18,17 @@ _😋 网页小游戏 😋_
 
 浏览量超1+
 
-Github Page: （监修中）
+Github Page: https://MSCxar0293Self.github.io/EatClass5
 
-## 可选功能
+## 项目计划
 
-简易排行榜(日/周/月)
-
-需导入并配置数据库，信息填进conn.php
-
-如启用务必更换密钥及添加一些安全防范代码
-
-以及对index.js进行混淆加密压缩
-
-不需要排行榜把PHP文件都扔掉即可
+- [ ] 新英雄
+  - [ ] 英雄选择界面
+  - [ ] 加入更多英雄数据包
+- [ ] 界面美化
 
 ## 其它事项
 
 点下star吧~
 
 欢迎修改和续写，需保留跳转此仓库的开源按钮
-
-如整成自己想要的吃掉xxx，可以Fork一份改下图和字，并在github pages运行
