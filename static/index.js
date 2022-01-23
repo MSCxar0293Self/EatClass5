@@ -341,11 +341,11 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return '试着好好练一下？';
-    if (score <= 99) return 'TCL';
-    if (score <= 149) return 'TQL';
-    if (score <= 199) return '您';
-    return '人？';
+    if (score <= 49) return '就这啊就这';
+    if (score <= 99) return '发发：什么傻屌';
+    if (score <= 149) return 'CJF：您';
+    if (score <= 199) return '达到了超越95yyw的程度';
+    return 'ybb一般般';
 }
 
 function toStr(obj) {
