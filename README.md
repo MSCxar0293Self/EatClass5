@@ -26,7 +26,7 @@ Github Page: https://MSCxar0293Self.github.io/EatClass5
   - [x] 英雄选择界面
   - [ ] 加入更多英雄数据包
 - [ ] 界面美化
-  -[ ]选择界面美化
+  - [ ] 选择界面美化
 
 ## 其它事项
 
