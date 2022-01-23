@@ -1,24 +1,24 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/MSCxar-0293/neededpic/blob/main/-3d84407091826a8.jpg?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
-# EatKano
+# EatClass5
 
-_🦌 网页小游戏 🥛_
+_😋 网页小游戏 😋_
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+> 根据游戏“吃掉小鹿乃”进行的二次创作。
 
-浏览量超10,000,000+
+小游戏：舌尖上的5班
 
-线上版本:https://xingye.me/game/eatkano/index.php
+浏览量超1+
 
-Github Page:https://arcxingye.github.io/EatKano/index.html
+Github Page: （监修中）
 
 ## 可选功能
 
