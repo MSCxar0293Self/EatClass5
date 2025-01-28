@@ -341,10 +341,10 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return '就这啊就这';
-    if (score <= 99) return '发发：什么傻屌';
-    if (score <= 149) return 'CJF：您';
-    if (score <= 199) return '达到了超越95yyw的程度';
+    if (score <= 49) return '这样可守护不了璐璐宝宝哦！';
+    if (score <= 99) return '勉强过关的男仆(⊙﹏⊙)';
+    if (score <= 149) return '较为优秀的男仆👍';
+    if (score <= 199) return '恭喜成为最强璐璐男仆王子轩👍';
     return 'ybb一般般';
 }
 
