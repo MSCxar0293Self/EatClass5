@@ -343,9 +343,9 @@ function shareText(score) {
     SubmitResults();
     if (score <= 50) return '这样可守护不了璐璐宝宝哦！';
     if (score <= 75) return '勉强过关的男仆(⊙﹏⊙)';
-    if (score <= 100) return '较为优秀的男仆👍';
-    if (score <= 125) return '恭喜成为最强璐璐男仆王子轩👍';
-    return 'ybb一般般';
+    if (score <= 125) return '较为优秀的男仆👍';
+    if (score <= 150) return '恭喜成为最强璐璐男仆王子轩👍';
+    return '恭喜成为最强璐璐男仆王子轩👍';
 }
 
 function toStr(obj) {
